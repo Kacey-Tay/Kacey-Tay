@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **Nothing!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kacey-Tay](https://github.com/Kacey-Tay)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/Lorh-o)
 
 - 💬 Ask me about **C#, Lua, Python.**
 
 - 📫 How to reach me **Kacey_Tay#0000**
 
-- 📄 Know about my experiences [https://github.com/Kacey-Tay](https://github.com/Kacey-Tay)
+- 📄 Know about my experiences [Here](https://github.com/Lorh-o)
 
 - ⚡ Fun fact **I'm super cool!**
 
